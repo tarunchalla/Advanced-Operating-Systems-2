@@ -1,0 +1,12 @@
+0 net01.utdallas.edu
+1 net02.utdallas.edu
+2 net03.utdallas.edu
+3 net04.utdallas.edu
+4 net05.utdallas.edu
+5 net06.utdallas.edu
+6 net07.utdallas.edu
+7 net08.utdallas.edu
+8 net09.utdallas.edu
+9 net10.utdallas.edu
+10 net11.utdallas.edu
+11 net12.utdallas.edu
